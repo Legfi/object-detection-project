@@ -16,7 +16,7 @@ then type "conda create --name pythonenv python=3.9"
 ## Update environment with needed packages 
 Browse to the git repo folder with the terminal. print "pip install -r requirements.txt"
 ## unzip models first if you want to use our models
-navigate to model folder and unzip them. models were had big size which was the reason we decide to uppload them as zip file to be able use github free version.
+navigate to model folder and unzip them. models were had big size which was the reason we decide to uppload them as zip file to be able to use github free version.
 
 ## Start the python script
 Browse to the location of the files.
