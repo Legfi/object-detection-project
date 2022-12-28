@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 # this cache the model becouse we don't want model loads all the time
 @st.cache
 def load_model():
-    model = pickle.load(open('Models/poc_final_Dadde/poc_final_Dadde.sav', 'rb'))
+    model = pickle.load(open('Models/poc_final_dadde/poc_final_dadde.sav', 'rb'))
     return model
 
 st.title("MNIST Digit Recognizer")
